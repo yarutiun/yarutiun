@@ -9,7 +9,7 @@ In this profile you can find my projects from:
   * Projects which are interesting to me
  
  #
- 
+ https://camo.githubusercontent.com/5290b5bf474fd116521720978b740f0c7ada4a604351f4ac6129334a6d7e0330/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a616b75626b61637a6d6172736b69266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
  ### Languages and Tools
  
  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
