@@ -18,6 +18,12 @@ In this profile you can find my projects from:
       
  <br />
  
+ ### Github Stats
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarutiun&layout=compact&theme=dark&langs_count=6)](https://github.com/yarutiun/github-readme-stats)
+ ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarutiun&show_icons=true&theme=dark&hide_title=true&hide_rank=true)
+ 
+ 
  #
  
  
