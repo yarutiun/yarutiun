@@ -1,7 +1,5 @@
 **`Software Engineering Student`**
 
-I am a software engineer and a man of culture in the process of becoming a game developer on Unreal Engine.
-
 My aim is to become a great qualified software engineer.
 
 In this profile you can find my projects from:
