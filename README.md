@@ -1,10 +1,17 @@
-**`Software Engineer`**
+# 👋 Hello! I'm Yura
 
-In this profile you can find my projects from:
-  * 42 Wolfsburg Software Engineering School
-  * My own Pet Projects
- 
- #
+I'm a **Junior Front-End Developer** passionate about building responsive and engaging web applications. I specialize in **React**, **JavaScript**, and **TypeScript**, continuously expanding my skills in modern front-end technologies.
+
+Originally from Ukraine, I honed my problem-solving and coding skills at **42 Wolfsburg School**, where I learned to tackle challenges in a collaborative and innovative environment.
+
+## 🔧 Tech Stack
+- **Front-End**: React, JavaScript, TypeScript  
+- **Styling**: CSS, Sass, Bootstrap  
+- **Version Control**: Git & GitHub  
+- **Currently Exploring**: Next.js and advanced React patterns
+
+I’m always excited to learn new things, improve my craft, and contribute to projects that make an impact.
+
  
  ### Languages and Tools
  
