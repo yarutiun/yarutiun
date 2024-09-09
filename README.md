@@ -8,12 +8,12 @@ In this profile you can find my projects from:
  
  ### Languages and Tools
  
- <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
- <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1200px-CSS3_logo.svg.png"/>
+ <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/34b891c76d258e4b0ee593443e5cbc2506cdbb7d3cd6bc0e4beffa87a9c1611b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"/>
  <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png"/>
  <img align="left" alt="TS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
- <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"/>
- <img align="left" alt="JEST" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/b48ef0b492dad9a050c8f0d54a6bdee8be134ffa75d846fcd26f02782efed56d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667"/>
+ <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1200px-CSS3_logo.svg.png"/>
+ <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img align="left" alt="JEST" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/ee882c05b3a487e818e630cd9de916b1a8fd7c26b5e3d49a8b340fe8cb3c80ef/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667"/>
  <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
  <br />
  
