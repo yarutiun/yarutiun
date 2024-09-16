@@ -27,7 +27,7 @@ I’m always excited to learn new things, improve my craft, and contribute to pr
  #
  
  ### Github Stats
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarutiun&locale=en&hide_title=false&layout=compact&theme=dracula&langs_count=6&hide=objective-c)](https://github.com/yarutiun/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarutiun&locale=en&hide_title=false&layout=compact&theme=dracula&langs_count=6&hide=objective-c,makefile,cmake&)](https://github.com/yarutiun/github-readme-stats)
       ![yarutiun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarutiun&show_icons=true&theme=dracula&hide_title=true&hide_rank=false)
  
  
