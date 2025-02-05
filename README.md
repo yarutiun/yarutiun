@@ -5,8 +5,8 @@ I'm a **Junior Front-End Developer** passionate about building responsive and en
 Originally from Ukraine, I honed my problem-solving and coding skills at **42 Wolfsburg School**, where I learned to tackle challenges in a collaborative and innovative environment.
 
 ## 🔧 Tech Stack
-- **Front-End**: React, JavaScript, TypeScript  
-- **Styling**: CSS, Sass, Bootstrap  
+- **Front-End**: JavaScript, TypeScript, React, Redux
+- **Styling**: CSS, Tailwind, Bootstrap
 - **Version Control**: Git & GitHub  
 - **Currently Exploring**: Next.js and advanced React patterns
 
